@@ -12,7 +12,7 @@ Este projeto, desenvolvido durante o curso **"JavaScript para Web: Crie páginas
 
 ## Veja o AluraMIDI em Ação\! 👀
 
-![Captura de tela da aplicação da AluraMIDI](images/Alura Midi.png/)
+![Captura de tela da aplicação da AluraMIDI](images/AluraMidi.png/)
 
 -----
 
